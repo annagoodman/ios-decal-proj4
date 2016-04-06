@@ -24,7 +24,7 @@ Shopping Cart intends to simplify the shopping experience by both functioning as
 ## Implementation
 
 ### Model
-* storeLayout.plist
+* storeLayout.plist (dictionary of where items are found in the store)
 * LocateItem.swift
 
 ### View
